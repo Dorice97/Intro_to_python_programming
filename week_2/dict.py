@@ -69,8 +69,6 @@
 
 # print(subjects)
 
-
-
 #dictionaries
 #key value pairs
 
@@ -103,4 +101,6 @@ cat={'name':'kitty','age':5}
 
 for i,j in cat.items():
     print(i,j)
+
+
 

@@ -44,6 +44,15 @@ txt = "the best things in life are free"
     
 #     file.write("\nLife is for the living")
 
-with open(r"C:\Users\dorice asami\Desktop\intro_to_programming\week_2\quotes.txt","w") as file:
-    file.write("Hello world")
+# with open(r"C:\Users\dorice asami\Desktop\intro_to_programming\week_2\quotes.txt","w") as file:
+#     file.write("Hello world")
 
+
+
+#encapsulating count function
+
+def count(text,letter):
+    "return number of times text appears in letter"
+
+    return text.count(letter)
+  
