@@ -35,8 +35,10 @@ name= input("What is your name?")
 # print("Hello ", name)
 #type casting
 
-print(type(name))
+# print(type(name))
 
 age= input("enter your age")
 age=int(age)
-print(type(age))
+#print(type(age))
+
+#conditional statements
